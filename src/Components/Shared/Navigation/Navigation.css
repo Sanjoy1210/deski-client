@@ -1,0 +1,36 @@
+.navbar-ligth {
+  background-color: transparent;
+}
+
+.navbar-dark {
+  background-color: #17192b;
+}
+
+.navbar-wrapper {
+  padding: 30px 40px!important;
+}
+
+.navbar-nav {
+  position: relative;
+}
+
+.navbar-nav .nav-link {
+  margin: 0 23px;
+  font-size: 20px;
+  padding: 30px 0!important;
+  color: hsla(0,0%,100%,.6);
+}
+
+/* .navbar-nav .nav-link::before {
+  position: absolute;
+  content: "";
+  left: 0;
+  height: 2px;
+  background: #000;
+  transition: .3s;
+  bottom: 0;
+} */
+
+
+
+
